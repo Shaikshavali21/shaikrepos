@@ -4,7 +4,7 @@ version: 2
 sources:
   - name: test_prod
     database: DBT_DB
-    schema: PROD
+    schema: STG_SCH
     tables:
       - name: Store_2024
       - name: Store_Sales_2024
