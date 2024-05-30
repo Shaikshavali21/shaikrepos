@@ -1,4 +1,4 @@
-{%snapshot emp_snapshot1 %}
+{%snapshot emp_snapshot2 %}
 {{
     config(
         target_database='DBT_TEST',
